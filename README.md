@@ -1,5 +1,6 @@
 # Speech-to-text
 Speech to text For English using hugging face
+
 Developed by Facebook AI Team.
 End-to-End Speech Recognition: Converts raw audio to text directly.
 Self-Supervised Learning: Learns from audio without human annotations.
